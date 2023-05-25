@@ -8,7 +8,7 @@
 ## Installation/Usage
 1. 複製`WndcDatacodeHomeworkAutomation`資料夾至`Google Drive`。
 
-2. 更改程式碼內的個人資料: 請看[詳細資訊](README.md#Appendix)。
+2. 更改程式碼內的個人資料: 請看[詳細資訊](#Appendix)。
 
 3. 設定觸發條件: `時間型觸發條件類型` 改為 `周計時`，並設定時段。
 
