@@ -21,4 +21,7 @@
 | password 	| 使用者密碼 	|  	|  
 | keyword 	| 題目關鍵字 	| 供程式辨識題目（課程名稱） 	|  
 | mode 	| 題目所使用的語言 	| 目前只供`py`與`cpp`兩種選擇 	|  
-##### latest updated: May 2023
+
+P.S 爬蟲只抓題目名稱包含`題目關鍵字`的題目
+
+##### latest updated: June 2023
