@@ -44,6 +44,10 @@ function myFunction() {
     console.log("題號：", myList);
 
     myList.forEach(function(crsno, index) {
+      // 若曾經提交則跳過
+      if(rootFolder.getFilesByName(`${crsno}.zip`).hasNext()) {
+        return;  // this is equivalent of 'continue' for jQuery loop
+      }
       // 設定內容
       if(mode == 'cpp') {
         var context = `#include <iostream>
