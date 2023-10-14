@@ -1,3 +1,5 @@
+> NOTE: 因 Online Judge 伺服器異動，此專案已過時
+
 # Datacode WNDC 自動做作業
 自動完成<ins>國立高雄科技大學 Online Judge 平台「Datacode WNDC」</ins>的題目。
 
